@@ -1,0 +1,40 @@
+html
+{
+    margin: 20px;
+}
+
+h1
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blanchedalmond;
+    padding: 5%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+hr
+{
+    color: lightcoral;
+}
+
+.sobre-mim
+{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.trabalhos-feitos
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer
+{
+    text-align: center;
+    color: black;
+   background-color:  blanchedalmond;
+   position: fixed;
+   bottom: 0 ;
+   width: 100%; 
+}
+
