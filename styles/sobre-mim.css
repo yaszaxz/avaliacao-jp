@@ -33,6 +33,14 @@ hr
     color: gold;
 }
 
+.eu
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
 .hobbies
 {
     font-family: Arial, Helvetica, sans-serif;
