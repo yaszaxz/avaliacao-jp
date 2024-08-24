@@ -13,6 +13,7 @@
         <header class="cabecalho">
             <h1>Ahri, a Raposa de Nove Caudas</h1>
             <a class="link" href="index.html">Início</a>
+            <button id="btn">Jogar</button>
             <br>
             <br>
             <hr></hr>
@@ -66,4 +67,11 @@
     </div>
 </main>
 </body>
+<script>
+    var botao = document.getElementById(btn);
+    btn.addEventListener('click', () =>
+    {
+        alert('Agora abra o League of Legends e vá jogar de Ahri!')
+    });
+</script>
 </html>
